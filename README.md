@@ -1,7 +1,6 @@
 <p align="center">
-  <strong><h1>Kamya Rachel</h1></strong>
+  <strong>Kamya Rachel</strong>
 </p>
-
 ---
 ## Data Analyst
 As a dedicated Data Analyst, I bring expertise in Python, SQL, Excel, BigQuery, MongoDB, Power BI, and Tableau. My experience is backed by strong problem-solving, analytical thinking, and effective communication skills. I am passionate about delivering actionable insights and driving impactful decisions through data. I take pride in continually learning and improving, approaching every challenge with curiosity, humility, and responsibility. This portfolio highlights the data analytics and data science projects I have completed during internships, professional experience, and personal development.
