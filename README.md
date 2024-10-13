@@ -1,4 +1,4 @@
-# Hi there 👋, I'm **Kamya Rachel**  
+# **Kamya Rachel**  
 ---
 
 Welcome to my GitHub profile. I'm passionate about [mention your focus areas like Data Analytics, Machine Learning, Cloud Engineering, etc.].
