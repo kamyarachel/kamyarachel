@@ -1,7 +1,8 @@
 # **Kamya Rachel**  
 ---
 
-Welcome to my GitHub profile. I'm passionate about [mention your focus areas like Data Analytics, Machine Learning, Cloud Engineering, etc.].
+## Data Analyst
+As a dedicated Data Analyst, I bring expertise in Python, SQL, Excel, BigQuery, MongoDB, Power BI, and Tableau. My experience is backed by strong problem-solving, analytical thinking, and effective communication skills. I am passionate about delivering actionable insights and driving impactful decisions through data. I take pride in continually learning and improving, approaching every challenge with curiosity, humility, and responsibility. This portfolio highlights the data analytics and data science projects I have completed during internships, professional experience, and personal development.
 
 ## 🛠️ Tech Stack
 - **Programming Languages**: Python, SQL
