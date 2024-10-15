@@ -1,6 +1,6 @@
 <h1 align="center">Kamya Rachel</h1>
 
-<h2 align="center">Data Analyst</h1>
+<h2 align="center">Data Analyst</h2>
  
 
 <p align="center">Data Analyst
