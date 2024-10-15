@@ -1,6 +1,6 @@
 <h1 align="center">Kamya Rachel</h1>
 
-<h2 align="center">Data Analyst</h2>
+<h3 align="center">Data Analyst</h3>
 
 <p align="center">kamyarachel1303@gmail.com</p> 
 
@@ -53,4 +53,4 @@
 <br> <!-- Adds space between the sections -->
 <br>
 
-<h2 align="center">Projects</h2>
+<h2>Projects</h2>
