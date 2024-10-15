@@ -12,7 +12,7 @@
 
 <p align="center"><em>I am a Data Analyst skilled in Python, SQL, BigQuery, MongoDB, Power BI, and Advanced Excel. With experience in AWS (Lambda, S3) and Looker, I specialize in delivering data-driven insights and creating impactful visualizations. I also have a solid foundation in Machine Learning techniques such as classification and Regression. This portfolio showcases projects I've completed through internships, professional work, and self-learning.</em></p>
 
-<h3 align="center">My Working Tools</h3>
+<h3>My Working Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-0E76A8?style=for-the-badge&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -25,7 +25,14 @@
   <img src="https://img.shields.io/badge/Canva-30B9D5?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
+
 
 <h3 align="center">Core Competencies</h3>
 <ul>
