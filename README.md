@@ -1,6 +1,6 @@
 <h1 align="center">Kamya Rachel</h1>
 
-<h3 align="center">Data Analyst</h3>
+<h2 align="center">Data Analyst</h2>
 
 <p align="center">kamyarachel1303@gmail.com</p> 
 
@@ -49,3 +49,8 @@
   <li><strong>Technical Skills:</strong> Excel, Pivot Tables, MySQL, Relational Database, R (Dplyr, Tidy, Ggplot2), Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn), Power BI</li>
   <li><strong>Soft Skills:</strong> Critical and Analytical Thinking, Problem Solving, Verbal and Written Communication, Attention to Detail, Fast Learner, Independent, and Self-Motivated.</li>
 </em></ul>
+
+<br> <!-- Adds space between the sections -->
+<br>
+
+<h2 align="center">Projects</h2>
