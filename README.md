@@ -10,10 +10,12 @@
   </a>
 </p>
 
-<p align="center"><em>I am a Data Analyst skilled in Python, SQL, BigQuery, MongoDB, Power BI, and Advanced Excel. With experience in AWS (Lambda, S3) and Looker, I specialize in delivering data-driven insights and creating impactful visualizations. I also have a solid foundation in Machine Learning techniques such as classification and Regression. This portfolio showcases projects I've completed through internships, professional work, and self-learning.</em></p>
+<p align="center"><em>I am a Data Analyst skilled in Python, SQL, BigQuery, MongoDB, Power BI, and Advanced Excel. With experience in AWS (Lambda, S3) and Looker, I specialize in delivering data-driven insights and creating impactful visualizations. I also have a solid foundation in Machine Learning techniques such as classification and regression. This portfolio showcases projects I've completed through internships, professional work, and self-learning.</em></p>
 
-<h4>My Working Tools</h4>
-<p>
+<br> <!-- Adds space between the sections -->
+
+<h4 align="center">My Working Tools</h4>
+<p align="center">
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
@@ -35,11 +37,11 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
+<br> <!-- Adds space between the sections -->
 
 <h4>Core Competencies</h4>
 <ul><em>
   <li><strong>Methodologies Known:</strong> Data Wrangling, Data Cleaning and Transformation, Data Visualization, Exploratory Data Analysis (EDA), Statistics, Regression Analysis, A/B Testing, RFM Analysis, Machine Learning, Artificial Intelligence, Time Series Analysis.</li>
   <li><strong>Technical Skills:</strong> Excel, Pivot Tables, PostgreSQL, Microsoft SQL Server, Relational Database, R (Dplyr, Tidy, Ggplot2), Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn), Power BI</li>
   <li><strong>Soft Skills:</strong> Critical and Analytical Thinking, Problem Solving, Verbal and Written Communication, Attention to Detail, Fast Learner, Independent, and Self-Motivated.</li>
-</em>em></ul>
-
+</em></ul>
