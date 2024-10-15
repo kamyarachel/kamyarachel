@@ -1,6 +1,6 @@
 <h1 align="center">Kamya Rachel</h1>
 
-<p align="center"><strong>Data Analyst</strong></p>
+<h3 align="center">Data Analyst</h3>
 
 <p align="center">kamyarachel1303@gmail.com</p> 
 
