@@ -1,14 +1,8 @@
 <h1 align="center">Kamya Rachel</h1>
 
-<br>
-
 <h3 align="center">Data Analyst</h3>
 
-<br>
-
 <p align="center">kamyarachel1303@gmail.com</p> 
-
-<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kamya-rachel-105a1b233/">
