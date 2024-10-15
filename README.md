@@ -13,7 +13,7 @@
 <p align="center"><em>I am a Data Analyst skilled in Python, SQL, BigQuery, MongoDB, Power BI, and Advanced Excel. With experience in AWS (Lambda, S3) and Looker, I specialize in delivering data-driven insights and creating impactful visualizations. I also have a solid foundation in Machine Learning techniques such as classification and Regression. This portfolio showcases projects I've completed through internships, professional work, and self-learning.</em></p>
 
 <h3>My Working Tools</h3>
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Power_BI-0E76A8?style=for-the-badge&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
