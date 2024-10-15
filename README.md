@@ -17,7 +17,7 @@
 <br> <!-- Adds space between the sections -->
 <br>
 
-<h4 align="center">My Working Tools</h4>
+<h4 align="center">Tech Stack</h4>
 <p align="center">
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
