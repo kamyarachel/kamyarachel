@@ -1,8 +1,14 @@
 <h1 align="center">Kamya Rachel</h1>
 
+<br>
+
 <h3 align="center">Data Analyst</h3>
 
+<br>
+
 <p align="center">kamyarachel1303@gmail.com</p> 
+
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kamya-rachel-105a1b233/">
@@ -10,15 +16,19 @@
   </a>
 </p>
 
+<br>
+
 <p align="center"><em>I am a Data Analyst skilled in Python, SQL, BigQuery, MongoDB, Power BI, and Advanced Excel. With experience in AWS (Lambda, S3) and Looker, I specialize in delivering data-driven insights and creating impactful visualizations. I also have a solid foundation in Machine Learning techniques such as classification and regression. This portfolio showcases projects I've completed through internships, professional work, and self-learning.</em></p>
 
 <br> <!-- Adds space between the sections -->
+<br>
 
 <h4 align="center">My Working Tools</h4>
 <p align="center">
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
   <!-- Frameworks -->
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -28,8 +38,7 @@
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Power_BI-0E76A8?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />  
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />  
   <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
@@ -38,6 +47,7 @@
 </p>
 
 <br> <!-- Adds space between the sections -->
+<br>
 
 <h4>Core Competencies</h4>
 <ul><em>
