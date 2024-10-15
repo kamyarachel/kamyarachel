@@ -37,9 +37,9 @@
 
 
 <h4>Core Competencies</h4>
-<ul>
+<ul><em>
   <li><strong>Methodologies Known:</strong> Data Wrangling, Data Cleaning and Transformation, Data Visualization, Exploratory Data Analysis (EDA), Statistics, Regression Analysis, A/B Testing, RFM Analysis, Machine Learning, Artificial Intelligence, Time Series Analysis.</li>
   <li><strong>Technical Skills:</strong> Excel, Pivot Tables, PostgreSQL, Microsoft SQL Server, Relational Database, R (Dplyr, Tidy, Ggplot2), Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn), Power BI</li>
   <li><strong>Soft Skills:</strong> Critical and Analytical Thinking, Problem Solving, Verbal and Written Communication, Attention to Detail, Fast Learner, Independent, and Self-Motivated.</li>
-</ul>
+</em>em></ul>
 
